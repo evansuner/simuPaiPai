@@ -1,0 +1,20 @@
+{
+  "name": "paipai",
+  "version": "1.0.0",
+  "description": "私募排排网解密服务",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "私募排排网"
+  ],
+  "author": "Evan",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  }
+}
