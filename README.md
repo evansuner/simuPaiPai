@@ -30,6 +30,8 @@ npm start
 
 + Docker部署
 ```bash
-
+git clone git@github.com:evansuner/simuPaiPai.git
+cd simuPaiPai
+docker compose up -d
 
 ```
